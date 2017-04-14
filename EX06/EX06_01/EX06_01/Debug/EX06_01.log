@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kelsey\documents\school assignments\cs2\ex06\ex06_01\ex06_01\main.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EX06_01.vcxproj -> C:\Users\Kelsey\Documents\School Assignments\CS2\EX06\EX06_01\Debug\EX06_01.exe
+  EX06_01.vcxproj -> C:\Users\Kelsey\Documents\School Assignments\CS2\EX06\EX06_01\Debug\EX06_01.pdb (Full PDB)

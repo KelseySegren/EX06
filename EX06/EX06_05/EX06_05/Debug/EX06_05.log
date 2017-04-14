@@ -1,0 +1,13 @@
+﻿  main.cpp
+  Complex.cpp
+  Generating Code...
+c:\users\kelsey\documents\school assignments\cs2\ex06\ex06_05\ex06_05\complex.cpp(119): error C4716: 'Complex::operator*=': must return a value
+c:\users\kelsey\documents\school assignments\cs2\ex06\ex06_05\ex06_05\complex.cpp(125): error C4716: 'Complex::operator/=': must return a value
+c:\users\kelsey\documents\school assignments\cs2\ex06\ex06_05\ex06_05\complex.cpp(113): error C4716: 'Complex::operator-=': must return a value
+c:\users\kelsey\documents\school assignments\cs2\ex06\ex06_05\ex06_05\complex.cpp(107): error C4716: 'Complex::operator+=': must return a value
+c:\users\kelsey\documents\school assignments\cs2\ex06\ex06_05\ex06_05\complex.cpp(161): warning C4717: 'operator+': recursive on all control paths, function will cause runtime stack overflow
+c:\users\kelsey\documents\school assignments\cs2\ex06\ex06_05\ex06_05\complex.cpp(165): warning C4717: 'operator-': recursive on all control paths, function will cause runtime stack overflow
+c:\users\kelsey\documents\school assignments\cs2\ex06\ex06_05\ex06_05\complex.cpp(169): warning C4717: 'operator*': recursive on all control paths, function will cause runtime stack overflow
+c:\users\kelsey\documents\school assignments\cs2\ex06\ex06_05\ex06_05\complex.cpp(173): warning C4717: 'operator/': recursive on all control paths, function will cause runtime stack overflow
+c:\users\kelsey\documents\school assignments\cs2\ex06\ex06_05\ex06_05\main.cpp(21): warning C4700: uninitialized local variable 'i2' used
+c:\users\kelsey\documents\school assignments\cs2\ex06\ex06_05\ex06_05\main.cpp(21): warning C4700: uninitialized local variable 'r2' used
